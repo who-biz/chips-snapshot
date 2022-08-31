@@ -31,7 +31,7 @@ Once this is complete, you should have a file in `home` directory titled `chips_
 
 ### Step 3: Run script to distribute coins according to snapshot
 
-You must have the required balance in your wallet to distribute to snapshot fully.  In th event that balance is insufficient, script will print a message indicating so.  It will also export JSON-formatted entries that have been excluded from snapshot to a file.
+You must have the required balance in your wallet to distribute to snapshot fully.  In the event that balance is insufficient, script will print a message indicating so.  It will also export JSON-formatted entries that have been excluded from snapshot to a file.
 
 Clone repository located here: https://github.com/who-biz/blockchain_scripts
 
