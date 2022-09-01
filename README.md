@@ -24,7 +24,7 @@ Then, take snapshot.  This will take a while.
 
 ```
 cd chipsposbal2csv
-python btcposbal2csv.py /home/biz/.chips/chainstate ~/chips_addresses_w_bal.csv
+python btcposbal2csv.py ~/.chips/chainstate ~/chips_addresses_w_bal.csv
 ```
 
 Once this is complete, you should have a file in `home` directory titled `chips_addresses_w_bal.csv`.
